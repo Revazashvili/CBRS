@@ -1040,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Infrastructure\\CBRS.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Projects\\NetCore\\CBRS\\CBRS.Infrastructure\\CBRS.Infrastructure.csproj",
       "projectName": "CBRS.Infrastructure",
-      "projectPath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Infrastructure\\CBRS.Infrastructure.csproj",
+      "projectPath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Infrastructure\\CBRS.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\levan\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Infrastructure\\obj\\",
+      "outputPath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet"
@@ -1065,11 +1065,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Core\\CBRS.Core.csproj": {
-              "projectPath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Core\\CBRS.Core.csproj"
+            "C:\\Projects\\NetCore\\CBRS\\CBRS.Core\\CBRS.Core.csproj": {
+              "projectPath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Core\\CBRS.Core.csproj"
             },
-            "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Helper\\CBRS.Helper.csproj": {
-              "projectPath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Helper\\CBRS.Helper.csproj"
+            "C:\\Projects\\NetCore\\CBRS\\CBRS.Helper\\CBRS.Helper.csproj": {
+              "projectPath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Helper\\CBRS.Helper.csproj"
             }
           }
         }

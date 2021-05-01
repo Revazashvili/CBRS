@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JjAgR7Z6ptUdgF0koUXXfV5D6smjz1k4UgGXT8dbQ3ETGgpZ8sLupLr3bnuw7R6OoRje2wgaTzB3y2NCue04TA==",
+  "dgSpecHash": "cSQY+kTG811BeS5LOHccAGyvKi63hadCBSPwhmEmJwp/UcKGE9NEpDopEuWJwV4fHt10vL2CHCd22iMLz0FP3w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Core\\CBRS.Core.csproj",
+  "projectFilePath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Core\\CBRS.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\levan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",

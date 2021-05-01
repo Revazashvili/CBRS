@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Helper\\CBRS.Helper.csproj": {}
+    "C:\\Projects\\NetCore\\CBRS\\CBRS.Helper\\CBRS.Helper.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Helper\\CBRS.Helper.csproj": {
+    "C:\\Projects\\NetCore\\CBRS\\CBRS.Helper\\CBRS.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Helper\\CBRS.Helper.csproj",
+        "projectUniqueName": "C:\\Projects\\NetCore\\CBRS\\CBRS.Helper\\CBRS.Helper.csproj",
         "projectName": "CBRS.Helper",
-        "projectPath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Helper\\CBRS.Helper.csproj",
+        "projectPath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Helper\\CBRS.Helper.csproj",
         "packagesPath": "C:\\Users\\levan\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Helper\\obj\\",
+        "outputPath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Helper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet"

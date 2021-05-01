@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RbWuMgdPopo46Ha/SsecGBa7p0pYBM7g5GS2UnKyHx80jFY/dp2NFhLprPMDghqueKJn+OBdPYV3Jh4d6lYhow==",
+  "dgSpecHash": "mjepvmBDOj1PSsfbzi6otrCdjNh7nC4ELShTcFV4JCmecjB9CE6+Z9KTLgNKrKUMk9IwO32n11yH5xLK0w0Yzg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.Infrastructure\\CBRS.Infrastructure.csproj",
+  "projectFilePath": "C:\\Projects\\NetCore\\CBRS\\CBRS.Infrastructure\\CBRS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levan\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\levan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

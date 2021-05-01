@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iQP7BLBzz/L9tfU615IZm5SPKk+DboRdv50LlqpN4aOtuGnoJ7nSBZlg0MLwtrFbXwPLv2NDvukru9I3tOs0dg==",
+  "dgSpecHash": "OK5NEhhRoySp7D1bNJyBij8az1EyTsg+Qf0uWMD2CVS2J9NOhwN27nSufw1GeyxGpNR0luAVaP8RS2Ys82fOBw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\NetCore\\Currency.Board.Refresh\\CBRS.WorkerService\\CBRS.WorkerService.csproj",
+  "projectFilePath": "C:\\Projects\\NetCore\\CBRS\\CBRS.WorkerService\\CBRS.WorkerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levan\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\levan\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
