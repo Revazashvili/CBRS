@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.0.90" />
+      <PackageReference Include="Quartz" Version="3.3.2" />
+      <PackageReference Include="Quartz.Extensions.DependencyInjection" Version="3.3.2" />
+      <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CBRS.Core\CBRS.Core.csproj" />
+      <ProjectReference Include="..\CBRS.Helper\CBRS.Helper.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60">
+        <HintPath>..\..\..\..\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\5.0.0\ref\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

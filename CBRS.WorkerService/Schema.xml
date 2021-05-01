@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Schemas>
+    <Schema Name="CCYSchema1">
+        <Pair Iso1="RUB" Iso2="GEL" Order="1"/>
+        <Pair Iso1="USD" Iso2="GEL" Order="2"/>
+        <Pair Iso1="GBP" Iso2="GEL" Order="3"/>
+        <Pair Iso1="EUR" Iso2="GEL" Order="4"/>
+    </Schema>
+    <Schema Name="CCYSchema2">
+        <Pair Iso1="USD" Iso2="GEL" Order="1"/>
+        <Pair Iso1="GBP" Iso2="GEL" Order="2"/>
+        <Pair Iso1="RUB" Iso2="GEL" Order="3"/>
+        <Pair Iso1="EUR" Iso2="GEL" Order="4"/>
+    </Schema>
+    <Schema Name="CCYSchema3">
+        <Pair Iso1="RUB" Iso2="GEL" Order="1"/>
+        <Pair Iso1="USD" Iso2="GEL" Order="2"/>
+        <Pair Iso1="GBP" Iso2="GEL" Order="3"/>
+        <Pair Iso1="EUR" Iso2="GEL" Order="4"/>
+    </Schema>
+    <Schema Name="CCYSchema4">
+        <Pair Iso1="RUB" Iso2="GEL" Order="1"/>
+        <Pair Iso1="USD" Iso2="GEL" Order="2"/>
+        <Pair Iso1="GBP" Iso2="GEL" Order="3"/>
+        <Pair Iso1="EUR" Iso2="GEL" Order="4"/>
+    </Schema>
+    <Schema Name="CCYSchema5">
+        <Pair Iso1="RUB" Iso2="GEL" Order="1"/>
+        <Pair Iso1="USD" Iso2="GEL" Order="2"/>
+        <Pair Iso1="GBP" Iso2="GEL" Order="3"/>
+        <Pair Iso1="EUR" Iso2="GEL" Order="4"/>
+    </Schema>
+</Schemas>

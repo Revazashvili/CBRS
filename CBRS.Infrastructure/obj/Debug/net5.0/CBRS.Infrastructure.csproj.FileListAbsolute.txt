@@ -1,0 +1,17 @@
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\CBRS.Infrastructure.deps.json
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\CBRS.Infrastructure.dll
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\ref\CBRS.Infrastructure.dll
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\CBRS.Infrastructure.pdb
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.csprojAssemblyReference.cache
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.AssemblyInfo.cs
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.dll
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\ref\CBRS.Infrastructure.dll
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.pdb
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\CBRS.Core.dll
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\CBRS.Core.pdb
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\obj\Debug\net5.0\CBRS.Infrastructure.csproj.CopyComplete
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\CBRS.Helper.dll
+C:\Projects\NetCore\Currency.Board.Refresh\CBRS.Infrastructure\bin\Debug\net5.0\CBRS.Helper.pdb
